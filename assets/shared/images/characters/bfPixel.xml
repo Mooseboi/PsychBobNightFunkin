@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bob (BFPIXEL REMAKE).png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF DOWN MISS — wystąpienie 10000" x="0" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10001" x="51" y="0" width="51" height="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10002" x="51" y="0" width="51" height="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10003" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10004" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10005" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10006" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10007" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10008" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10009" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10010" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10011" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10012" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN MISS — wystąpienie 10013" x="102" y="0" width="51" height="56" frameX="0" frameY="-1" frameWidth="51" frameHeight="57"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10000" x="153" y="0" width="58" height="58" frameX="-1" frameY="0" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10001" x="211" y="0" width="57" height="59" frameX="-2" frameY="0" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10002" x="268" y="0" width="58" height="59" frameX="-1" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10003" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10004" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10005" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10006" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10007" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10008" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10009" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10010" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10011" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10012" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF DOWN NOTE — wystąpienie 10013" x="326" y="0" width="59" height="59" frameX="0" frameY="-1" frameWidth="59" frameHeight="60"/>
+	<SubTexture name="BF IDLE — wystąpienie 10000" x="385" y="0" width="61" height="55" frameX="0" frameY="-2" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10001" x="385" y="0" width="61" height="55" frameX="0" frameY="-2" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10002" x="446" y="0" width="60" height="54" frameX="-1" frameY="-3" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10003" x="446" y="0" width="60" height="54" frameX="-1" frameY="-3" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10004" x="0" y="59" width="59" height="54" frameX="-2" frameY="-3" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10005" x="0" y="59" width="59" height="54" frameX="-2" frameY="-3" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10006" x="59" y="59" width="59" height="55" frameX="-2" frameY="-2" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10007" x="59" y="59" width="59" height="55" frameX="-2" frameY="-2" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10008" x="118" y="59" width="58" height="56" frameX="-3" frameY="-1" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10009" x="118" y="59" width="58" height="56" frameX="-3" frameY="-1" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10010" x="176" y="59" width="58" height="57" frameX="-3" frameY="0" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10011" x="176" y="59" width="58" height="57" frameX="-3" frameY="0" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10012" x="176" y="59" width="58" height="57" frameX="-3" frameY="0" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF IDLE — wystąpienie 10013" x="176" y="59" width="58" height="57" frameX="-3" frameY="0" frameWidth="61" frameHeight="57"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10000" x="234" y="59" width="53" height="58" frameX="0" frameY="-3" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10001" x="287" y="59" width="55" height="62" frameX="0" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10002" x="287" y="59" width="55" height="62" frameX="0" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10003" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10004" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10005" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10006" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10007" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10008" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10009" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10010" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10011" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10012" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT MISS — wystąpienie 10013" x="342" y="59" width="55" height="62" frameX="-1" frameY="0" frameWidth="56" frameHeight="62"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10000" x="397" y="59" width="54" height="58" frameX="0" frameY="-1" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10001" x="451" y="59" width="53" height="59" frameX="-1" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10002" x="0" y="121" width="51" height="59" frameX="-3" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10003" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10004" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10005" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10006" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10007" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10008" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10009" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10010" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10011" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10012" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF LEFT NOTE — wystąpienie 10013" x="51" y="121" width="53" height="59" frameX="-2" frameY="0" frameWidth="55" frameHeight="59"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10000" x="104" y="121" width="58" height="57" frameX="0" frameY="-2" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10001" x="162" y="121" width="59" height="60" frameX="-1" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10002" x="162" y="121" width="59" height="60" frameX="-1" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10003" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10004" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10005" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10006" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10007" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10008" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10009" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10010" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10011" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10012" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT MISS — wystąpienie 10013" x="221" y="121" width="58" height="60" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10000" x="279" y="121" width="59" height="59" frameX="-5" frameY="0" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10001" x="338" y="121" width="59" height="58" frameX="-2" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10002" x="397" y="121" width="58" height="58" frameX="-1" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10003" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10004" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10005" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10006" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10007" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10008" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10009" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10010" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10011" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10012" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF RIGHT NOTE — wystąpienie 10013" x="0" y="181" width="58" height="58" frameX="0" frameY="-2" frameWidth="64" frameHeight="60"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10000" x="58" y="181" width="60" height="65" frameX="-1" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10001" x="118" y="181" width="58" height="64" frameX="0" frameY="-1" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10002" x="118" y="181" width="58" height="64" frameX="0" frameY="-1" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10003" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10004" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10005" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10006" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10007" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10008" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10009" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10010" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10011" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10012" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP MISS — wystąpienie 10013" x="176" y="181" width="58" height="65" frameX="0" frameY="0" frameWidth="61" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10000" x="234" y="181" width="58" height="65" frameX="-5" frameY="0" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10001" x="292" y="181" width="58" height="62" frameX="-3" frameY="-2" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10002" x="350" y="181" width="59" height="62" frameX="0" frameY="-2" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10003" x="409" y="181" width="59" height="60" frameX="0" frameY="-4" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10004" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10005" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10006" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10007" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10008" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10009" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10010" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10011" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+	<SubTexture name="BF UP NOTE — wystąpienie 10012" x="0" y="246" width="58" height="61" frameX="-2" frameY="-3" frameWidth="63" frameHeight="65"/>
+</TextureAtlas>
